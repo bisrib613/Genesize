@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@google/genai": "^0.14.1",
+    "puppeteer": "^24.8.2",
+    "readline-sync": "^1.4.10",
+    "rss-parser": "^3.13.0"
+  }
+}
